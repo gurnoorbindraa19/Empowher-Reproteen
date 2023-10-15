@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="schedstyles.css">
+    <title>Doctor Appointment</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+    .container {
+    text-align: center;
+    }
+        .btn {
+            display: inline-block;
+            margin-right: 10px;
+            align-items: center;
+            padding: 10px 20px;
+            background-color: #f03c78; /* Button background color */
+            color: #fff; /* Button text color */
+            text-decoration: none;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .btn-back {
+            background-color: #f03c78; /* Back button background color */
+        }
+    </style>
+</head>
+<body>
+    <div class="abccontainer">
+        <h1>Schedule a Call with a Doctor</h1>
+        <div class="schedule-form">
+            <label for="name">Your Name:</label>
+            <input type="text" id="name" placeholder="Enter your name">
+            <label for="date">Preferred Date:</label>
+            <input type="date" id="date">
+            <label for="time">Preferred Time:</label>
+            <input type="time" id="time">
+            <a class="btn btn-back" href="pregnancy.html">Back to Doctors</a>
+            <a class="btn btn-back" href="done.html">Schedule Call</a>
+        </div>
+    </div>
+</body>
+</html>

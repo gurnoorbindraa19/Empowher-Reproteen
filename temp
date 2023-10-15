@@ -1,0 +1,23 @@
+// consultation cards
+
+<div class="row">
+    <div class="review-card"><p>Lorem ipsum dolor sit, amet consectetur 
+        adipisicing elit. Neque eos soluta omnis pariatur explicabo 
+        nesciunt accusantium iure vero voluptatibus maiores facere 
+        mollitia hic eius odio sapiente. Lorem ipsum dolor sit amet</p></div>
+    <div class="review-card"><p>Lorem ipsum dolor sit, amet consectetur 
+            adipisicing elit. Neque eos soluta omnis pariatur explicabo 
+            nesciunt accusantium iure vero voluptatibus maiores facere 
+            mollitia hic eius odio sapiente. Lorem ipsum dolor sit amet</p></div>
+    <div class="review-card"><p>Lorem ipsum dolor sit, amet consectetur 
+                adipisicing elit. Neque eos soluta omnis pariatur explicabo 
+                nesciunt accusantium iure vero voluptatibus maiores facere 
+                mollitia hic eius odio sapiente. Lorem ipsum dolor sit amet</p></div>
+    <div class="review-card"><p>Lorem ipsum dolor sit, amet consectetur 
+                    adipisicing elit. Neque eos soluta omnis pariatur explicabo 
+                    nesciunt accusantium iure vero voluptatibus maiores facere 
+                    mollitia hic eius odio sapiente. Lorem ipsum dolor sit amet</p></div>
+                </div>
+</div>
+
+//
